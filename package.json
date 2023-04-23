@@ -1,0 +1,16 @@
+{
+    "name": "data-structures-and-algorithms",
+    "version": "1.0.0",
+    "description": "Data Structures and Algorithms",
+    "main": "index.ts",
+    "module": "index.mjs",
+    "types": "index.d.ts",
+    "scripts": {
+        "start": "ts-node index.ts"
+    },
+    "devDependencies": {
+        "typescript": "^4.9.4"
+    },
+    "author": "Lara G",
+    "license": "MIT"
+}
